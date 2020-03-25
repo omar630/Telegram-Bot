@@ -1,0 +1,23 @@
+{
+  "name": "Telegram-Bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/omar630/Telegram-Bot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/omar630/Telegram-Bot/issues"
+  },
+  "homepage": "https://github.com/omar630/Telegram-Bot#readme",
+  "dependencies": {
+    "telegraf": "^3.32.0"
+  }
+}
